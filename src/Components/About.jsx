@@ -1,6 +1,6 @@
 import React from 'react'
 import coach from "../assets/Icons/coaching.png"
-import improve from "../assets/Icons/Improve.png"
+import improve from "../assets/Icons/improve.png"
 import Star from "../assets/Icons/star-badge.png"
 
 function About() {
